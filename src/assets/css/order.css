@@ -1,0 +1,52 @@
+.order .van-nav-bar .van-icon,
+.order .van-nav-bar__text {
+    color: #71210e
+}
+
+.order .bg .bg-content {
+    background-color: transparent;
+    padding: 0px
+}
+
+.order .van-tabs__content {
+    margin-top: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px
+}
+
+.order .tab-content .tab-box {
+    padding: 10px;
+    background-color: #fff;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-bottom: 10px
+}
+
+.order .tab-content .tab-box:last-child {
+    margin-bottom: 0
+}
+
+.order .tab-content .tab-box .pay-title-box {
+    display: flex;
+    justify-content: space-between
+}
+
+.order .tab-content .tab-box .pay-title-box .pay-t {
+    color: #666;
+    font-size: 14px
+}
+
+.order .tab-content .tab-box .pay-title-box .pay-s {
+    display: flex
+}
+
+.order .tab-content .tab-box .pay-title-box .pay-s .pay-text {
+    font-size: 14px;
+    color: #999
+}
+
+.order .tab-content .tab-box .pay-title-box .pay-s .pay-icon {
+    color: #71210e;
+    font-size: 19px;
+    margin-left: 10px
+}

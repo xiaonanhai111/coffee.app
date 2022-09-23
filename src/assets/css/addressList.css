@@ -1,0 +1,28 @@
+.addressList {
+    padding-bottom: 50px
+}
+
+.addressList .van-nav-bar .van-icon,
+.addressList .van-nav-bar__text {
+    color: #a5361a
+}
+
+.addressList .van-address-list,
+.addressList .van-address-item {
+    padding: 10px;
+    border-bottom: 1px solid #e8e8e8
+}
+
+.addressList .van-address-list:last-child,
+.addressList .van-address-item:last-child {
+    border-bottom: none
+}
+
+.addressList .van-tag--danger {
+    background-color: #d74622
+}
+
+.addressList .van-button--danger {
+    background-color: #89bd40;
+    border: #71210e
+}

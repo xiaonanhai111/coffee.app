@@ -1,0 +1,22 @@
+.address .van-nav-bar .van-icon,
+.address .van-nav-bar__text {
+    color: #71210e;
+}
+
+.address .van-cell {
+    padding-left: 0;
+    padding-right: 0
+}
+
+.address .van-switch--on {
+    background-color: #71210e
+}
+
+.address .van-button--danger {
+    background-color: #71210e;
+    border-color: #71210e
+}
+
+.address .van-dialog__header--isolated {
+    color: #333
+}
