@@ -1,0 +1,75 @@
+.personalData .van-nav-bar .van-icon,
+.personalData .van-nav-bar__text {
+    color: #71210e
+}
+
+
+.personalData .van-cell {
+    padding-left: 0px;
+    padding-right: 0px;
+    background-color: rgb(236, 225, 227, .2);
+}
+
+.personalData .van-cell__value {
+    font-size: 12px
+}
+
+.personalData .van-uploader,
+.personalData .van-uploader__wrapper {
+    display: block;
+    width: 100%;
+    height: 100%;
+    opacity: 0
+}
+
+.personalData .van-uploader__upload {
+    margin: 0;
+    width: 100%;
+    height: 100%
+}
+
+.personalData .van-popup {
+    padding: 10px
+}
+
+.personalData .van-cell__value>span {
+    text-align: left
+}
+
+.personalData .userData-box .img {
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    overflow: hidden;
+    position: relative
+}
+
+.personalData .userData-box .img img {
+    width: 100%;
+    height: 100%;
+}
+
+.personalData .userData-box .img .up-img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 100%
+}
+
+.personalData .van-popup {
+    padding: 0px
+}
+
+.personalData .register-box {
+    padding: 10px
+}
+
+.personalData .register-box .register-form {
+    margin-top: 40px
+}
+
+.personalData .register-box .btn-box {
+    margin-top: 10px
+}

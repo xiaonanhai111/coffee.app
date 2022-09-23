@@ -1,0 +1,145 @@
+.pay {
+    padding-bottom: 67px
+}
+
+.pay .van-nav-bar .van-icon,
+.pay .van-nav-bar__text {
+    color: #71210e
+}
+
+.pay .pay-box {
+    padding: 10px
+}
+
+.pay .pay-box .select-address-box {
+    background-color: #fff;
+    padding: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px
+}
+
+.pay .pay-box .select-address-box .select {
+    color: #666;
+    font-size: 14px;
+    display: flex;
+    line-height: 19px
+}
+
+.pay .pay-box .select-address-box .select/deep/.van-icon-arrow::before {
+    line-height: 19px;
+    margin-left: 5px
+}
+
+.pay .pay-box .select-address-box .address-box {
+    margin-top: 20px
+}
+
+.pay .pay-box .select-address-box .address-box .name-box {
+    display: flex
+}
+
+.pay .pay-box .select-address-box .address-box .name-box .name {
+    color: #71210e;
+    font-size: 14px;
+    font-weight: bold
+}
+
+.pay .pay-box .select-address-box .address-box .name-box .telephone-number {
+    font-size: 14px;
+    color: #666;
+    margin: 0 20px
+}
+
+.pay .pay-box .select-address-box .address-box .name-box .default {
+    background-color: #71210e;
+    color: #fff;
+    font-size: 12px;
+    padding: 2px 8px;
+    border-radius: 22px
+}
+
+.pay .pay-box .select-address-box .address-box .address {
+    font-size: 14px;
+    color: #999;
+    margin-top: 10px;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden
+}
+
+.pay .pey-info {
+    background-color: #fff;
+    margin: 0px 10px 10px 10px;
+    padding: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px
+}
+
+.pay .address-boxing {
+    position: relative;
+    padding: 20px 20px 0px 20px
+}
+
+.pay .address-boxing .select-address {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    font-size: 16px;
+    color: #444
+}
+
+.pay .address-boxing .van-address-list {
+    padding-top: 30px;
+    padding-left: 0px;
+    padding-right: 0px
+}
+
+.pay .address-boxing .van-address-item {
+    padding-left: 0px;
+    padding-right: 0px;
+    border-bottom: 1px solid #eee
+}
+
+.pay .address-boxing .van-address-item:last-child {
+    border-bottom: none
+}
+
+.pay .address-boxing .van-tag--danger {
+    background-color: #71210e
+}
+
+.pay .address-boxing .van-address-item .van-radio__icon--checked .van-icon,
+.pay .address-boxing .van-button--danger {
+    background-color: #71210e;
+    border-color: #71210e
+}
+
+.pay .address-boxing .van-address-item__edit {
+    display: none
+}
+
+.pay .address-boxing .van-address-item__value {
+    padding-right: 0px
+}
+
+.pay .address-boxing .van-address-item__address {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 100%
+}
+
+.pay .address-boxing .van-radio__label {
+    display: block;
+    width: calc(100% - 20px)
+}
+
+.pay .pay-btn {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    padding: 10px;
+    width: calc(100% - 20px);
+    background-color: #f7f7f7
+}
